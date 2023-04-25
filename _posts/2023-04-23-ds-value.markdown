@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "The value that a data scientist brings to the table"
+date:   2023-04-23 15:19:12 +0800
+categories: business-value
+---
+
+The value that a data scientist brings to the table is defined by the quality of questions asked.
